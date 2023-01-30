@@ -1,1 +1,1 @@
-# The main repository for OxPOS releases
+# Repository for OxPOS releases which set install location to `C:\Users\Public`
